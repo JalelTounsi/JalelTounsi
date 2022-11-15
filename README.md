@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Artificial Intelligence, Machine Learning, Deep Learning, Blockchain architecture and technology and everything about Business.
 - 💞️ I’m looking to collaborate on Web3, Blockchain, AI and ML projects
 - 📫 How to reach me ? let's get in touch over LinkedIn
-- 👨🏻‍💻 i'm working on SimpleSwapper (Decentralized Exchange + NFT Marketplace + DeX aggregator for tokens swap) --JalelTounsi/SimpleSwapper
-- 💶 If you want to get me a cup of coffee, please feel free to send me some crypto at 0xF5EaFE58D56649E1e442920eE92500C7b78B3E0E
+- 👨🏻‍💻 i'm building my own version of the next generation of Decentralized Exchange
+- 💶 If you want to get me a cup of coffee, encourage me to continue working on my projects, please feel free to send me some erc20/ETH to 0x6827b6cdaAd17ECe5D6Fd2C47a4d752931e66Aa6
 - 🖼 Have a look at my collection https://opensea.io/_Deity
 - 🦾 If you want to collaborate on a blockchain, web3, AI or ML project, feel free to reach out.
 
