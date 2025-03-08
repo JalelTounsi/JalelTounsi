@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain, Web3, DeFi, artificial intelligence and machine learning.
 - 🌱 I’m currently learning Artificial Intelligence, Machine Learning, Deep Learning, Blockchain, Web3, DeFi, etc.
 - 💞️ I’m looking to collaborate on Web3, Blockchain, AI and ML projects
-- 👨🏻‍💻 i'm currently working on a Decentrakized Exchange Aggregator
+- 👨🏻‍💻 i'm currently working on a Decentralized Exchange Aggregator
 - 👨🏻‍💻 i've worked on an open source boilerplate DeFi project [DappBoilerplate](https://github.com/JalelTounsi/DappBoilerplate) and prompt builder project [PromptBuilder](https://github.com/JalelTounsi/PromptBuilder)
 - 💶 If you want to help me keep working on my projects, please feel free to get in touch on [SuperPeer](https://superpeer.com/jaleltounsi) or [buy me a coffee](https://buy.stripe.com/00g03gcxq6QqcGkfYY)
 
